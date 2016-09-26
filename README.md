@@ -1,2 +1,7 @@
 # DatePicker_DEMO
 This is a simple demo to show how to use DatePicker when editing TextField.
+##Screenshots
+<div style="float:left;">
+    <img src="https://raw.githubusercontent.com/ithree1113/DatePicker_DEMO/master/ScreenShot/exam1.png" width="300">
+    <img src="https://raw.githubusercontent.com/ithree1113/DatePicker_DEMO/master/ScreenShot/exam2.png" width="300">
+    </div>
